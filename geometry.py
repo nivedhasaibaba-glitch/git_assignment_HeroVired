@@ -9,6 +9,9 @@ class GeometryCalculator:
 
     def calculate_rectangle_area(self, length, width):
         return length * width
+    
+    radius = 5
+    print(f"Circle Area = {calculator.calculate_circle_area(radius)}")
 
     length = 10
     width = 6
