@@ -12,7 +12,3 @@ class GeometryCalculator:
     
     radius = 5
     print(f"Circle Area = {calculator.calculate_circle_area(radius)}")
-
-    length = 10
-    width = 6
-    print(f"Rectangle Area = {calculator.calculate_rectangle_area(length, width)}")
